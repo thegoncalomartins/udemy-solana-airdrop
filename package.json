@@ -1,0 +1,23 @@
+{
+  "name": "udemy-solana-airdrop",
+  "version": "1.0.0",
+  "description": "Airdrop Project made with Solana (from Udemy Course)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegoncalomartins/udemy-solana-airdrop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thegoncalomartins/udemy-solana-airdrop/issues"
+  },
+  "homepage": "https://github.com/thegoncalomartins/udemy-solana-airdrop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.64.0"
+  }
+}
